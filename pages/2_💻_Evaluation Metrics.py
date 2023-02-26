@@ -22,7 +22,7 @@ from yellowbrick.cluster import SilhouetteVisualizer
 st.set_page_config(page_title="Evaluation Metrics", page_icon="💻")
 st.markdown("# Evaluation Metrics")
 st.sidebar.header("Evaluation Metrics")
-st.write('This page executes the evaluation metrics and illustrate the process in real-time')
+st.write('This page shows the evaluation metrics')
 
 ####### MAIN SECTION #######
 
